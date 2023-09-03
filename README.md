@@ -66,7 +66,7 @@ Este programa em linguagem C implementa um sistema de gerenciamento de alunos us
 
 1. Abra o terminal.
 2. Navegue até o diretório onde o arquivo de código-fonte do programa está localizado.
-3. Compile o programa com o comando: `gcc seu_programa.c -o programa`
+3. Compile o programa com o comando: `gcc main.c -o programa`
 4. Execute o programa com o comando: `./programa`
 
 ## Autor:
