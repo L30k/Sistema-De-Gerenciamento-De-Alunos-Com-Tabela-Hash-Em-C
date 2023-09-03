@@ -18,6 +18,7 @@ Crie um programa que manipule os dados de um aluno em uma tabela hash.
     • O tamanho da tabela hash deve ser o próximo número primo a partir da quantidade de alunos (incluindo a quantidade).
     
   d. As seguintes funções devem ser suportadas pelo sistema:
+  
     • Cadastrar um aluno.
     • Buscar um aluno.
     • Excluir um aluno.
