@@ -2,6 +2,34 @@
 
 Este programa em linguagem C implementa um sistema de gerenciamento de alunos usando uma tabela hash. Permite aos usuários cadastrar, buscar, excluir e alterar dados de alunos em uma instituição de ensino. Além disso, oferece a funcionalidade de aumentar o número de alunos da instituição. A seguir estão detalhes sobre o programa:
 
+## Exercício:
+
+1. **Crie um programa que manipule os dados de um aluno em uma tabela hash.**
+
+   a) O cadastro de um aluno possui:
+   
+      • Matrícula.
+      • Nome.
+      • Curso.
+      • Período.
+   
+   b) A chave utilizada na função hash é a matrícula do aluno.
+   
+   c) A quantidade de alunos que a instituição possui será informada pelo usuário.
+   
+      • O tamanho da tabela hash deve ser o próximo número primo a partir da quantidade de alunos (incluindo a quantidade).
+      
+   d) As seguintes funções devem ser suportadas pelo sistema:
+   
+      • Cadastrar um aluno.
+      • Buscar um aluno.
+      • Excluir um aluno.
+      • Alterar os dados de um aluno.
+      • Excluir todos os alunos.
+      • Aumentar o número de alunos da instituição.
+      
+   e) O sistema deverá ser encerrado apenas quando o usuário solicitar.
+
 ## Funcionalidades Principais:
 
 1. **Cadastro de Alunos:**
@@ -29,7 +57,6 @@ Este programa em linguagem C implementa um sistema de gerenciamento de alunos us
 3. Escolha uma das opções do menu para realizar uma das operações de gerenciamento de alunos.
 4. Siga as instruções fornecidas pelo programa para completar a operação desejada.
 5. O sistema poderá ser encerrado quando o usuário solicitar.
-
 
 ## Requisitos:
 
