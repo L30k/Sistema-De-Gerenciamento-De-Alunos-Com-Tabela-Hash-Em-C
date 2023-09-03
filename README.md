@@ -30,11 +30,6 @@ Este programa em linguagem C implementa um sistema de gerenciamento de alunos us
 4. Siga as instruções fornecidas pelo programa para completar a operação desejada.
 5. O sistema poderá ser encerrado quando o usuário solicitar.
 
-## Benefícios
-
-- O RLE é um algoritmo de compressão simples e eficiente para strings com repetições de caracteres.
-- Esta aplicação oferece uma maneira rápida e fácil de aprender a utilizar uma tabela hash em C, pois a implementação do algoritmo RLE envolve o uso desse tipo de estrutura de dados.
-
 
 ## Requisitos:
 
