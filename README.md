@@ -2,9 +2,13 @@
 Crie um programa que manipule os dados de um aluno em uma tabela hash.
 
   a. O cadastro de um aluno possui:
+  
     • Matrícula.
+    
     • Nome.
+    
     • Curso.
+    
     • Período.
   
   b. A chave utilizada na função hash é a matrícula do aluno.
