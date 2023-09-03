@@ -1,20 +1,20 @@
 # Sistema-De-Gerenciamento-De-Alunos-Com-Tabela-Hash-Em-C
-Crie um programa que manipule os dados de um aluno em uma tabela hash.
+1) Crie um programa que manipule os dados de um aluno em uma tabela hash.
 
-  a. O cadastro de um aluno possui:
+  a) O cadastro de um aluno possui:
   
     • Matrícula.
     • Nome.
     • Curso.
     • Período.
   
-  b. A chave utilizada na função hash é a matrícula do aluno.
+  b) A chave utilizada na função hash é a matrícula do aluno.
   
-  c. A quantidade de alunos que a instituição possui será informada pelo usuário.
+  c) A quantidade de alunos que a instituição possui será informada pelo usuário.
   
     • O tamanho da tabela hash deve ser o próximo número primo a partir da quantidade de alunos (incluindo a quantidade).
     
-  d. As seguintes funções devem ser suportadas pelo sistema:
+  d) As seguintes funções devem ser suportadas pelo sistema:
   
     • Cadastrar um aluno.
     • Buscar um aluno.
@@ -23,4 +23,4 @@ Crie um programa que manipule os dados de um aluno em uma tabela hash.
     • Excluir todos os alunos.
     • Aumentar o número de alunos da instituição.
     
-  e. O sistema deverá ser encerrado apenas quando o usuário solicitar.
+  e) O sistema deverá ser encerrado apenas quando o usuário solicitar.
