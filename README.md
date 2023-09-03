@@ -30,11 +30,11 @@ Este programa em linguagem C implementa um sistema de gerenciamento de alunos us
 4. Siga as instruções fornecidas pelo programa para completar a operação desejada.
 5. O sistema poderá ser encerrado quando o usuário solicitar.
 
-## Benefícios:
+## Benefícios
 
-- Este programa oferece uma maneira eficiente de gerenciar alunos em uma instituição de ensino, proporcionando acesso rápido às informações dos alunos.
-- A tabela hash garante que as operações de busca, exclusão e alteração sejam realizadas de maneira eficaz, independentemente do tamanho da instituição.
-- A escalabilidade do programa permite aumentar o número de alunos conforme necessário, mantendo a eficiência das operações.
+- O RLE é um algoritmo de compressão simples e eficiente para strings com repetições de caracteres.
+- Esta aplicação oferece uma maneira rápida e fácil de aprender a utilizar uma tabela hash em C, pois a implementação do algoritmo RLE envolve o uso desse tipo de estrutura de dados.
+
 
 ## Requisitos:
 
